@@ -1,4 +1,5 @@
 # MemCast Telegram Bot
+![memcastbot](https://github.com/user-attachments/assets/6532f75d-263c-41b3-a394-612f22ac3d0f)
 
 MemCast is a versatile Telegram bot offering users a range of services, including daily meditation prompts, AI chatbot interactions, and media downloads. To access these features, users are encouraged to join our Telegram channel.
 
